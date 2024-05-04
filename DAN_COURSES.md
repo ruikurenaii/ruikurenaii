@@ -1,5 +1,5 @@
 <center>
-  <img src="https://github.com/LouieNotHere/LouieNotHere/assets/168345503/730703e5-9cbf-4b21-ab33-8f17322d15c6">
+  <img src="https://raw.githubusercontent.com/LouieNotHere/LouieNotHere/main/danCourses/banner.png">
 </center>
 
 # osudroid!relax Dan Courses
