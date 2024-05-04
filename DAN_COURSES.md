@@ -31,3 +31,10 @@ First of all, there are a **twelve dan courses**, which are composed of **nine c
 
 #### Requirements:
 > - Mods: Precise (`PR`) or No Mod (`NM` with `RX`)
+
+#### Accuracy Requirements
+| Dan | `PR` | `NMRX` |
+|--------|----|----|
+| X Dan | 95% | 97% |
+| Chuuden | 93% | 95% |
+| Kaiden | 90% | 93% |
