@@ -15,6 +15,8 @@ These dan courses are made for players to test their aiming ability, starting fr
 # Dan Courses Information
 First of all, there are a **twelve dan courses**, which are composed of **nine casual courses** and **three advanced courses**, with different requirements in order to clear them, only with the `RX` mod.
 
+If you are looking for the practice maps, please [click here to get redirected](https://github.com/LouieNotHere/LouieNotHere/blob/main/DAN_PRACTICE.md)
+
 ### Casual Dan Courses include:
 - **D Dan to Ex+ Dan**
 
