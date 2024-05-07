@@ -55,4 +55,4 @@ Here are some cases that make your score disqualified:
 - Using force stat mods (*aka* stat edit), or using other mods than the **Precise** mod (`PR`)
 
 # Dan Courses
-if you are looking for the courses, please [click here.](https://github.com/LouieNotHere/LouieNotHere/edit/main/DAN_COURSES.md)
+if you are looking for the courses, please [click here.](https://github.com/LouieNotHere/LouieNotHere/blob/main/DAN_COURSES.md)
