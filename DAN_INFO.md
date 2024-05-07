@@ -4,16 +4,17 @@
 
 # osudroid!relax Dan Courses
 
-**!! CURRENTLY ON WORK IN PROGRESS, OTHER INFORMATION MAY NOT BE INCLUDED IN THE FINAL PRODUCT !!**
+**!! THIS IS CURRENTLY ON WORK IN PROGRESS, OTHER INFORMATION MAY NOT BE INCLUDED, OR IT MAY CONTAIN TYPOS IN THE FINAL PRODUCT !!**
 
 **Authors:**
 - Prepared by **@nekorin727**
 - Approved by **@paytouse (me)**
+- With the help of **@vaxeienjoyer**
 
 These dan courses are made for players to test their aiming ability, starting from the easier ones, and as they progress up, it gets harder.
 
 # Dan Courses Information
-First of all, there are a **twelve dan courses**, which are composed of **nine casual courses** and **three advanced courses**, with different requirements in order to clear them, only with the `RX` mod.
+First of all, there are **twelve dan courses**, which are composed of **nine casual courses** and **three advanced courses**, with different requirements in order to clear them, only with the Relax (`RX`) mod.
 
 If you are looking for the practice maps, please [click here to get redirected](https://github.com/LouieNotHere/LouieNotHere/blob/main/DAN_PRACTICE.md)
 
@@ -52,7 +53,7 @@ Here are the requirements in order to qualify:
 Here are some cases that make your score disqualified:
 - Intentionally tapping instead of dragging (not acceptable if it's an accident)
 - There aren't enough evidences on your score
-- Using force stat mods (*aka* stat edit), or using other mods than the **Precise** mod (`PR`)
+- Using force stat mods (*aka* stat edit), or using other mods than the **Precise** (`PR`) mod
 
 # Dan Courses
-if you are looking for the courses, please [click here.](https://github.com/LouieNotHere/LouieNotHere/blob/main/DAN_COURSES.md)
+if you are looking for the dan courses itself, please [click here to view all dan courses](https://github.com/LouieNotHere/LouieNotHere/blob/main/DAN_COURSES.md)
