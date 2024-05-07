@@ -22,8 +22,8 @@ If you are looking for the practice maps, please [click here to get redirected](
 
 #### Requirements:
 > - Mods: Precise (`PR`)
-> 
-> **Accuracy Requirements**:
+
+**Accuracy Requirements**:
 > - **D Dan to A Dan**: 99%
 > - **S Dan to SSS Dan**: 98%
 > - **Ex Dan to Ex+ Dan**: 97%
@@ -40,3 +40,19 @@ If you are looking for the practice maps, please [click here to get redirected](
 | X Dan | 95% | 97% |
 | Chuuden | 93% | 95% |
 | Kaiden | 90% | 93% |
+
+# Score Submission
+Here are the requirements in order to qualify:
+- Pass a **Dan Course Map** with the required mods and accuracy listed above
+- Send a screenshot of your score in the **#score-submission** channel, which is on the [osudroid!relax Discord Server](https://discord.com/invite/kUaSggQP7m)
+- If you want to do the live play instead, show your handcam in the **Gaming** voice channel, which is also in the link above
+
+**!! PLEASE TAKE NOTE THAT BEFORE YOU SUBMIT THE SCORE, PLEASE SEND THE `.edr` FILE OF YOUR SCORE AS AN EVIDENCE (HIGHLY REQUIRED) IF SOMEONE DOUBTS YOUR PLAY !!**
+
+Here are some cases that make your score disqualified:
+- Intentionally tapping instead of dragging (not acceptable if it's an accident)
+- There aren't enough evidences on your score
+- Using force stat mods (*aka* stat edit), or using other mods than the **Precise** mod (`PR`)
+
+# Dan Courses
+if you are looking for the courses, please [click here.](https://github.com/LouieNotHere/LouieNotHere/edit/main/DAN_COURSES.md)
