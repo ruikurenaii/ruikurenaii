@@ -4,19 +4,17 @@
 
 # osudroid!relax Dan Courses
 
-**!! THIS IS CURRENTLY ON WORK IN PROGRESS, OTHER INFORMATION MAY NOT BE INCLUDED, OR IT MAY CONTAIN TYPOS IN THE FINAL PRODUCT !!**
-
 **Authors:**
 - Prepared by **@nekorin727**
 - Approved by **@paytouse (me)**
 - With the help of **@vaxeienjoyer**
 
-These dan courses are made for players to test their aiming ability, starting from the easier ones, and as they progress up, it gets harder.
+These dan courses are made for players to test their aiming ability, starting from the easier ones, and as they progress up, it gets harder and harder.
 
 # Dan Courses Information
 First of all, there are **twelve dan courses**, which are composed of **nine casual courses** and **three advanced courses**, with different requirements in order to clear them, only with the Relax (`RX`) mod.
 
-If you are looking for the practice maps, please [click here to get redirected](https://github.com/LouieNotHere/LouieNotHere/blob/main/DAN_PRACTICE.md)
+If you are looking for the practice maps of the dan courses, please [click here to get redirected.](https://github.com/LouieNotHere/LouieNotHere/blob/main/DAN_PRACTICE.md)
 
 ### Casual Dan Courses include:
 - **D Dan to Ex+ Dan**
@@ -46,14 +44,16 @@ If you are looking for the practice maps, please [click here to get redirected](
 Here are the requirements in order to qualify:
 - Pass a **Dan Course Map** with the required mods and accuracy listed above
 - Send a screenshot of your score in the **#score-submission** channel, which is on the [osudroid!relax Discord Server](https://discord.com/invite/kUaSggQP7m)
-- If you want to do the live play instead, show your handcam in the **Gaming** voice channel, which is also in the link above
+- If you want to do a live play instead, show your handcam in the **Gaming** voice channel, which is also in the link above if you wanna do it so
 
-**!! PLEASE TAKE NOTE THAT BEFORE YOU SUBMIT THE SCORE, PLEASE SEND THE `.edr` FILE OF YOUR SCORE AS AN EVIDENCE (HIGHLY REQUIRED) IF SOMEONE DOUBTS YOUR PLAY !!**
+**!! PLEASE TAKE NOTE THAT BEFORE YOU SUBMIT THE SCORE, PLEASE SEND THE `.edr` FILE OF YOUR SCORE AS AN EVIDENCE AS THIS IS HIGHLY REQUIRED !!**
 
 Here are some cases that make your score disqualified:
-- Intentionally tapping instead of dragging (not acceptable if it's an accident)
-- There aren't enough evidences on your score
+- Intentionally tapping instead of dragging (not acceptable even if it was an accident or not)
+- There aren't enough evidences / proofs that you had this score
 - Using force stat mods (*aka* stat edit), or using other mods than the **Precise** (`PR`) mod
 
 # Dan Courses
 if you are looking for the dan courses itself, please [click here to view all dan courses](https://github.com/LouieNotHere/LouieNotHere/blob/main/DAN_COURSES.md)
+
+# That's all of it! Good luck, have fun and show off your aiming skill!
