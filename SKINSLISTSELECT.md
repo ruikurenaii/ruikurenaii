@@ -3,3 +3,4 @@
 <h3 align="center">Please select an osu! client:</h3>
 
 - [osu!droid](https://github.com/LouieNotHere/LouieNotHere/blob/main/DROIDSKINS.md)
+- [osu!](https://github.com/LouieNotHere/LouieNotHere/blob/main/OSUSKINS.md)
