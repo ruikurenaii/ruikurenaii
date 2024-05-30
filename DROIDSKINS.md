@@ -14,6 +14,9 @@ note: this updates frequently
 ## [Aristia edit but LouieNotHere](https://drive.google.com/file/d/192sk6XsabC7YwelBdEaIS0tIsE4FBSEr/view?usp=drivesdk)
 
 ## [Sparkle v1.5 (LouieNotHere's insta-fade circles)](https://drive.google.com/file/d/1lB7uGd4GKnWmFAq2aFo2Lzc9jqqaXRSB/view?usp=drivesdk)
-collab with **@nekorin727**
+collab with **@nekorin727** on discord
+
+## [Rafis HDDT (Mahmood Cursor)](https://drive.google.com/file/d/1mSqqE0in1jde1b6su27mMDafFaJn9NHO/view?usp=drivesdk)
+Recommended cursor size: 65
 
 ### end of file.
