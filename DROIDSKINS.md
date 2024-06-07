@@ -3,6 +3,8 @@ note: this updates frequently
 
 **!! COPIED FROM [PayToUse/PayToUse](https://github.com/Paytouse/paytouse/blob/main/skins.md) DUE TO NO ACCESS TO THE ACCOUNT ITSELF !!**
 
+if you are looking for skins that are in my osu! 1v1 knockout video, [please click here](https://github.com/LouieNotHere/LouieNotHere/blob/main/DROIDCOMPETITORSKINS.md)
+
 ## [Rafis HDDT but PayToUse](https://drive.google.com/file/d/14wtBRxupDAUx58vy_J9chJeqi59APUaV/view?usp=drivesdk)
 reddish dt version
 
