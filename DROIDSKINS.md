@@ -26,4 +26,7 @@ collab with **@nekorin727** on discord
 ## [Rafis HDDT (Mahmood Cursor)](https://drive.google.com/file/d/1mSqqE0in1jde1b6su27mMDafFaJn9NHO/view?usp=drivesdk)
 best cursor (**Recommended cursor size: 65**)
 
+## [Takanashi Hoshino v1.01](https://drive.google.com/drive/folders/130yDKvxhDFgnlLjAck_UHg6Ykx1G3OmA)
+a completely handmade osu!droid skin i made
+
 ### end of file.
