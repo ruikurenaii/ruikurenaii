@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Rubik",
+  "previewText": "Rubik is a sans serif font family designed by Hubert and Fischer, Meir Sedan, Cyreal, Daniel Grumer and Omaima Dajani",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-ExtraBold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-ExtraBold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-ExtraBoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-MediumItalic.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-Italic.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-SemiBold.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-SemiBoldItalic.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-ExtraBold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-Italic.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-SemiBold.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/LouieNotHere/LouieNotHere/raw/main/Fonts/Rubik-SemiBold.ttf?raw=1"
+  }
+}
