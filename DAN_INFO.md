@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/LouieNotHere/LouieNotHere/main/danCourses/banner.png">
 </center>
 
-# osudroid!relax Dan Courses
+# osudroid!relax Dantinei Courses
 
 **Authors:**
-- Prepared by **@nekorin727**
-- Approved by **@paytouse (me)**
-- With the help of **@vaxeienjoyer**
+- Prepared by **Nekomata Rin (@nekorin727)**
+- Approved by **Louie Kurenai (@paytouse)**
+- With the help of **Terra (@vaxeienjoyer)**
 
-These dan courses are made for players to test their aiming ability, starting from the easier ones, and as they progress up, it gets harder and harder.
+osudroid!relax Dantinei Courses, **aka.** the Dan Courses (commonly called), are made for players to test their aiming ability, starting from the easier ones, and as they complete these courses, it progressively gets harder and harder.
 
 # Dan Courses Information
 First of all, there are **twelve dan courses**, which are composed of **nine casual courses** and **three advanced courses**, with different requirements in order to clear them, only with the Relax (`RX`) mod.
@@ -48,12 +48,12 @@ Here are the requirements in order to qualify:
 
 **!! PLEASE TAKE NOTE THAT BEFORE YOU SUBMIT THE SCORE, PLEASE SEND THE `.edr` FILE OF YOUR SCORE AS AN EVIDENCE AS THIS IS HIGHLY REQUIRED !!**
 
-Here are some cases that make your score disqualified:
+Here are some cases that can make your score disqualified:
 - Intentionally tapping instead of dragging (not acceptable even if it was an accident or not)
-- There aren't enough evidences / proofs that you had this score
+- There are not enough evidences or proofs that you had this score
 - Using force stat mods (*aka* stat edit), or using other mods than the **Precise** (`PR`) mod
 
 # Dan Courses
-if you are looking for the dan courses itself, please [click here to view all dan courses](https://github.com/LouieNotHere/LouieNotHere/blob/main/DAN_COURSES.md)
+If you are currently looking for the dan courses for you to complete, please [click here to view all dan courses](https://github.com/LouieNotHere/LouieNotHere/blob/main/DAN_COURSES.md)
 
-# That's all of it! Good luck, have fun and show off your aiming skill!
+# Seems like that's all of it! Good luck, have fun and show off your aiming skill!
