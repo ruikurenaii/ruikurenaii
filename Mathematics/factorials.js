@@ -13,4 +13,4 @@ Math.factorial = function (n) {
 
 // Usages
 console.log(Math.factorial(5)); // This should return the value 120
-console.log(Math.factorial(25)); // This should return the value 15,511,210,043,330,985,984,000,000 (which is abou5 15.511 Septillion)
+console.log(Math.factorial(25)); // This should return the value 15,511,210,043,330,985,984,000,000 (which is about 15.511 Septillion)
