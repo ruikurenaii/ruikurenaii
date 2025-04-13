@@ -1,5 +1,5 @@
 <h1 align="center">LouieNotHere 🇺🇸</h1>
-<p align="center">Best osu!droid FL Player in existence 🔥</p>
+<p align="center">Underrated osu! content creator and programmer 🔥</p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/LouieNotHere/count.svg">
