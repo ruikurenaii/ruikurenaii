@@ -1,5 +1,11 @@
-<h1 align="center">LouieNotHere 🇺🇸</h1>
-<p align="center">Underrated osu! content creator and programmer 🔥</p>
+# Introduction! 👋
+Hello! I am **Louie Sebastian Kurenai**, I can be called in various names such as Sebby and Lou.
+
+I am a programmer, gamer and journalist who loves to customize things to whatever matches my vibe.
+
+I am a Windows and Linux user, do not hate me for using both.
+
+That's all.
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/LouieNotHere/count.svg">
@@ -7,4 +13,4 @@
   times this profile has been visited
 </p>
 
-<img src="https://myreadme.vercel.app/api/embed/LouieNotHere?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
+<img src="https://myreadme.vercel.app/api/embed/ruikurenaii?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
