@@ -5,15 +5,13 @@ I am a programmer, gamer and journalist who loves to customize things to whateve
 
 I am a Windows and Linux user, do not hate me for using both.
 
+I mainly play games such as osu! and osu!droid, best rhythm games to play in my opinion.
+
+I use Obsidian as my daily drive for notes because it's flexible ans has markdown syntax support.
+
 That's all.
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ruikurenaii/count.svg">
-  <br>
-  Profile visits count
-</p>
-
-# Operating Systems
+# Operating Systems I use 💻
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="14"/> Windows 11 - Used mostly for gaming when I have nothing to do.
 - <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-1024.png" width="15"/> Arch Linux - Used mostly for customization experiments.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1200px-UbuntuCoF.svg.png" width="15"/> Ubuntu - Used for coding and alternative journaling, best for studying.
