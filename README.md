@@ -8,9 +8,9 @@ I am a Windows and Linux user, do not hate me for using both.
 That's all.
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/LouieNotHere/count.svg">
+  <img src="https://profile-counter.glitch.me/ruikurenaii/count.svg">
   <br>
-  times this profile has been visited
+  Profile visits count
 </p>
 
 <img src="https://myreadme.vercel.app/api/embed/ruikurenaii?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
