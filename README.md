@@ -7,7 +7,7 @@ I am a Windows and Linux user, do not hate me for using both.
 
 I mainly play games such as osu! and osu!droid, best rhythm games to play in my opinion.
 
-I use Obsidian as my daily drive for notes because it's flexible ans has markdown syntax support.
+I use Obsidian as my daily drive for notes because it's flexible and has markdown syntax support.
 
 That's all.
 
