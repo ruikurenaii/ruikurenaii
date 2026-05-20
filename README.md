@@ -37,6 +37,15 @@ Code editors
 </details>
 
 <details>
+  <summary>
+    <h3>Code Statistics</h3>
+  </summary>
+
+![Profile](profile/stats.svg)
+![Top Languages](profile/top-langs.svg)
+</details>
+
+<details>
   <summary><h3>Donation page links</h3></summary>
 
 * [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/ruikurenaii)
