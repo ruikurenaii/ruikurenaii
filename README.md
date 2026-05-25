@@ -43,6 +43,7 @@ Code editors
 
 ![Profile](profile/stats.svg)
 ![Top Languages](profile/top-langs.svg)
+![](https://komarev.com/ghpvc/?username=ruikurenaii&style=flat-square)
 </details>
 
 <details>
