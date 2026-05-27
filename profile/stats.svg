@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Louie Sebastian Kurenai&#12398; GitHub &#32113;&#35336;, Rank: C+</title>
-        <desc id="descId">スターされた数: 9, 合計コミット数  : 882, 合計 PR: 7, 合計 issue: 3, 貢献したリポジトリ （昨年）: 1</desc>
+        <desc id="descId">スターされた数: 10, 合計コミット数  : 882, 合計 PR: 7, 合計 issue: 3, 貢献したリポジトリ （昨年）: 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 210.00281677782314;
+        stroke-dashoffset: 208.81954270867445;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >9</text>
+      >10</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
