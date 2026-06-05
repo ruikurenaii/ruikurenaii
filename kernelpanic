@@ -1,0 +1,94 @@
+[ 8561.639056] iwlwifi 0000:02:00.0: Command REPLY_ADD_STA failed: FW Error
+[ 8561.639060] iwlwifi 0000:02:00.0: Adding station ff:ff:ff:ff:ff:ff failed.
+[ 8561.639663] iwlwifi 0000:02:00.0: Command REPLY_SCAN_CMD failed: FW Error
+[ 8561.639873] iwlwifi 0000:02:00.0: Command REPLY_SCAN_CMD failed: FW Error
+[ 8561.640732] iwlwifi 0000:02:00.0: Command REPLY_LEDS_CMD failed: FW Error
+[ 8561.640890] iwlwifi 0000:02:00.0: Command REPLY_LEDS_CMD failed: FW Error
+[ 8561.651852] iwlwifi 0000:02:00.0: Command REPLY_RXON failed: FW Error
+[ 8561.651860] iwlwifi 0000:02:00.0: Error clearing ASSOC_MSK on BSS (-5)
+[ 8561.651900] iwlwifi 0000:02:00.0: Command REPLY_RXON failed: FW Error
+[ 8561.651905] iwlwifi 0000:02:00.0: Error clearing ASSOC_MSK on BSS (-5)
+[ 8561.651917] iwlwifi 0000:02:00.0: Command REPLY_RXON failed: FW Error
+[ 8561.651930] iwlwifi 0000:02:00.0: Error clearing ASSOC_MSK on BSS (-5)
+[ 8561.651942] iwlwifi 0000:02:00.0: Command REPLY_RXON failed: FW Error
+[ 8561.651945] iwlwifi 0000:02:00.0: Error clearing ASSOC_MSK on BSS (-5)
+[ 8561.652232] iwlwifi 0000:02:00.0: Command REPLY_RXON failed: FW Error
+[ 8561.652239] iwlwifi 0000:02:00.0: Error clearing ASSOC_MSK on BSS (-5)
+[ 8561.698316] BUG: kernel NULL pointer dereference, address: 0000000000000000
+[ 8561.698324] #PF: supervisor instruction fetch in kernel mode
+[ 8561.698326] #PF: error_code(0x0010) - not-present page
+[ 8561.698328] PGD 0 P4D 0 
+[ 8561.698331] Oops: Oops: 0010 [#1] SMP PTI
+[ 8561.698335] CPU: 3 UID: 1000 PID: 1568 Comm: gnome-shell Tainted: G        W           7.0.9-1-cachyos-bore #1 PREEMPT(full)  bc1e4c53e2004f6d9f63dfb378a8caf9306eba7b
+[ 8561.698340] Tainted: [W]=WARN
+[ 8561.698341] Hardware name: NEC PC-VK26MDZCF/QBLH0, BIOS NOTE BIOS Version /732A0600      10/09/2012
+[ 8561.698343] RIP: 0010:0x0
+[ 8561.698363] Code: Unable to access opcode bytes at 0xffffffffffffffd6.
+[ 8561.698364] RSP: 0018:ffffcca9001a8f28 EFLAGS: 00010097
+[ 8561.698366] RAX: 0000000000000000 RBX: ffffcca9001a8f68 RCX: 0000000000000000
+[ 8561.698368] RDX: 0000000000000000 RSI: ffff893df137e320 RDI: ffff893ce3628dc0
+[ 8561.698370] RBP: 00000000ffffffff R08: ffff893d892f8148 R09: 0000000000000096
+[ 8561.698371] R10: 0000000000000086 R11: ffffcca9001a8ff8 R12: ffff893ce3628e40
+[ 8561.698372] R13: ffff893ce3628dc0 R14: 0000000000000000 R15: 0000000000000000
+[ 8561.698374] FS:  00007f7c525affc0(0000) GS:ffff893fcae93000(0000) knlGS:0000000000000000
+[ 8561.698376] CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+[ 8561.698377] CR2: ffffffffffffffd6 CR3: 00000001413a2004 CR4: 00000000001726f0
+[ 8561.698379] Call Trace:
+[ 8561.698381]  <IRQ>
+[ 8561.698384]  signal_irq_work+0x2b8/0x650 [i915 d6bebb618d13c939494bf60feed6f528fe3769bf]
+[ 8561.698622]  irq_work_run_list+0x6a/0xd0
+[ 8561.698630]  irq_work_run+0x18/0x50
+[ 8561.698633]  __sysvec_irq_work+0x20/0xf0
+[ 8561.698636]  sysvec_irq_work+0x6c/0x90
+[ 8561.698640]  </IRQ>
+[ 8561.698641]  <TASK>
+[ 8561.698642]  asm_sysvec_irq_work+0x1a/0x20
+[ 8561.698645] RIP: 0010:_raw_spin_unlock_irqrestore+0x1d/0x40
+[ 8561.698649] Code: 90 90 90 90 90 90 90 90 90 90 90 90 90 f3 0f 1e fa 0f 1f 44 00 00 c6 07 00 0f 1f 00 f7 c6 00 02 00 00 74 06 fb 0f 1f 44 00 00 <65> ff 0d 1c c4 09 02 74 05 c3 cc cc cc cc e8 00 a6 a5 fe c3 cc cc
+[ 8561.698651] RSP: 0018:ffffcca9032bbc70 EFLAGS: 00000206
+[ 8561.698653] RAX: 0000000000000001 RBX: ffff893d92b73480 RCX: 0000000000000246
+[ 8561.698655] RDX: ffff893d92b73490 RSI: 0000000000000246 RDI: ffff893d92b734f8
+[ 8561.698656] RBP: 0000000000000000 R08: 0000000000000000 R09: ffff893d46755b00
+[ 8561.698657] R10: ffff893d4b2591e0 R11: 0000000000000000 R12: ffffffff94ef9bb0
+[ 8561.698658] R13: ffffffff94efca70 R14: ffff893d8132d470 R15: 00000000c01864cf
+[ 8561.698660]  ? __pfx_drm_syncobj_eventfd_ioctl+0x10/0x10
+[ 8561.698675]  ? __pfx_syncobj_eventfd_entry_fence_func+0x10/0x10
+[ 8561.698679]  dma_fence_add_callback+0xe9/0x1a0
+[ 8561.698682]  syncobj_eventfd_entry_func.isra.0+0xc6/0x190
+[ 8561.698684]  drm_syncobj_eventfd_ioctl+0x14a/0x270
+[ 8561.698687]  drm_ioctl_kernel+0xae/0x100
+[ 8561.698691]  drm_ioctl+0x2d8/0x530
+[ 8561.698693]  ? __pfx_drm_syncobj_eventfd_ioctl+0x10/0x10
+[ 8561.698697]  __x64_sys_ioctl+0xb9/0xf0
+[ 8561.698701]  do_syscall_64+0x119/0x1630
+[ 8561.698704]  ? do_syscall_64+0x119/0x1630
+[ 8561.698706]  ? do_syscall_64+0x119/0x1630
+[ 8561.698708]  ? irqtime_account_irq+0x30/0xc0
+[ 8561.698712]  ? irq_exit_rcu+0x55/0x100
+[ 8561.698715]  entry_SYSCALL_64_after_hwframe+0x76/0x7e
+[ 8561.698717] RIP: 0033:0x7f7c57718edd
+[ 8561.698729] Code: 04 25 28 00 00 00 48 89 45 c8 31 c0 48 8d 45 10 c7 45 b0 10 00 00 00 48 89 45 b8 48 8d 45 d0 48 89 45 c0 b8 10 00 00 00 0f 05 <89> c2 3d 00 f0 ff ff 77 1a 48 8b 45 c8 64 48 2b 04 25 28 00 00 00
+[ 8561.698730] RSP: 002b:00007fffbf4f3ce0 EFLAGS: 00000246 ORIG_RAX: 0000000000000010
+[ 8561.698732] RAX: ffffffffffffffda RBX: 00007f7c3801f480 RCX: 00007f7c57718edd
+[ 8561.698734] RDX: 00007fffbf4f3d70 RSI: 00000000c01864cf RDI: 000000000000008c
+[ 8561.698735] RBP: 00007fffbf4f3d30 R08: 0000000000000000 R09: 000000000000000c
+[ 8561.698736] R10: 00007fffbf4f3e10 R11: 0000000000000246 R12: 00007fffbf4f3d70
+[ 8561.698737] R13: 00000000c01864cf R14: 000000000000008c R15: 00005646b9c7af10
+[ 8561.698740]  </TASK>
+[ 8561.698741] Modules linked in: snd_seq_dummy snd_hrtimer snd_seq snd_seq_device nft_fib_inet nft_fib_ipv4 nft_fib_ipv6 nft_fib nft_reject_inet nf_reject_ipv4 nf_reject_ipv6 nft_reject nft_ct nft_chain_nat nf_nat nf_conntrack nf_defrag_ipv6 nf_defrag_ipv4 nf_tables ccm algif_aead des3_ede_x86_64 des_generic libdes algif_skcipher cmac md4 nfnetlink algif_hash af_alg intel_rapl_msr intel_rapl_common snd_hda_codec_intelhdmi x86_pkg_temp_thermal snd_hda_codec_hdmi intel_powerclamp coretemp snd_hda_codec_alc269 kvm_intel snd_hda_codec_realtek_lib snd_hda_scodec_component snd_hda_codec_generic snd_hda_intel kvm snd_hda_codec snd_hda_core irqbypass snd_intel_dspcfg ghash_clmulni_intel snd_intel_sdw_acpi aesni_intel iwldvm snd_hwdep at24 pcmcia snd_pcm mac80211 rapl i2c_i801 intel_cstate libarc4 snd_timer i2c_smbus intel_uncore iwlwifi snd iTCO_wdt i2c_mux pcspkr psmouse intel_pmc_bxt yenta_socket cfg80211 acpi_als pcmcia_rsrc soundcore industrialio_triggered_buffer intel_oc_wdt mousedev pcmcia_core rfkill joydev kfifo_buf
+[ 8561.698786]  e1000e industrialio mei_me ptp mei tpm_infineon pps_core mac_hid pkcs8_key_parser uinput ntsync crypto_user i915 i2c_algo_bit drm_buddy ttm intel_gtt sr_mod cdrom serio_raw drm_display_helper video ata_generic wmi cec pata_acpi lpc_ich
+[ 8561.698803] CR2: 0000000000000000
+[ 8561.698805] ---[ end trace 0000000000000000 ]---
+[ 8561.698807] RIP: 0010:0x0
+[ 8561.698813] Code: Unable to access opcode bytes at 0xffffffffffffffd6.
+[ 8561.698814] RSP: 0018:ffffcca9001a8f28 EFLAGS: 00010097
+[ 8561.698816] RAX: 0000000000000000 RBX: ffffcca9001a8f68 RCX: 0000000000000000
+[ 8561.698817] RDX: 0000000000000000 RSI: ffff893df137e320 RDI: ffff893ce3628dc0
+[ 8561.698818] RBP: 00000000ffffffff R08: ffff893d892f8148 R09: 0000000000000096
+[ 8561.698819] R10: 0000000000000086 R11: ffffcca9001a8ff8 R12: ffff893ce3628e40
+[ 8561.698821] R13: ffff893ce3628dc0 R14: 0000000000000000 R15: 0000000000000000
+[ 8561.698822] FS:  00007f7c525affc0(0000) GS:ffff893fcae93000(0000) knlGS:0000000000000000
+[ 8561.698823] CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+[ 8561.698825] CR2: ffffffffffffffd6 CR3: 00000001413a2004 CR4: 00000000001726f0
+[ 8561.698826] Kernel panic - not syncing: Fatal exception in interrupt
+[ 8561.698860] Kernel Offset: 0x12c00000 from 0xffffffff81000000 (relocation range: 0xffffffff80000000-0xffffffffbfffffff)
