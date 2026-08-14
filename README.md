@@ -6,6 +6,6 @@
   This GitHub account might not be active anymore, but the necessary repositories will still keep on running as always,
 </p>
 
-<p align+"center">
+<p align="center">
   In the meantime, most of those that are here will either be archived, made private or deleted.
 </p>
